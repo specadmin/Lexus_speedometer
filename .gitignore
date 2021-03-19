@@ -1,0 +1,12 @@
+/.project
+/bin/*
+!/bin/*.hex
+/bin/*-debug.hex
+*.save
+*.ii
+*.o
+*.s
+*.bak
+*.layout
+*.depend
+PCB
