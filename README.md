@@ -4,8 +4,13 @@
 
 Устройство подходит для приборных панелей Lexus RX300 1-го поколения (1998...2003).
 
+Результат выглядит так:
 <div align="center"> <img src="docs/result1.jpg" width="500"/> </div>
+
+Элементы мелкой шкалы и MPH заклеиваются черной изолентой:
 <div align="center"> <img src="docs/result2.jpg" width="500"/> </div>
+
+Принципиальная схема устройства:
 <div align="center"> <img src="docs/schematics.png" width="800"/> </div>
 
 Больше информации и инструкция по установке здесь: https://www.drive2.ru/l/583354966161298745/
